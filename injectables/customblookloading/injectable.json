@@ -2,11 +2,11 @@
   "title": "Infinite Factory",
   "description": "Prevent the timer from ticking in solo factory games",
   "author": "ThatFruedDued",
-  "url": "https://thatfrueddued.github.io/blooket-utility-injectables/injectables/infiniteFactory/injectable.json",
+  "url": "https://some-6ude.github.io/things-i-need-to-host/injectables/customblookloading/injectable.json",
   "scripts": [
-    "https://thatfrueddued.github.io/blooket-utility-injectables/injectables/infiniteFactory/setup.js",
-    "https://thatfrueddued.github.io/blooket-utility-injectables/injectables/infiniteFactory/factoryHook.js"
+    "https://some-6ude.github.io/things-i-need-to-host/injectables/customblookloading/setup.js",
+    "https://some-6ude.github.io/things-i-need-to-host/injectables/customblookloading/factoryHook.js"
   ],
-  "setupScript": "https://thatfrueddued.github.io/blooket-utility-injectables/injectables/infiniteFactory/setup.js",
-  "cleanupScript": "https://thatfrueddued.github.io/blooket-utility-injectables/injectables/infiniteFactory/cleanup.js"
+  "setupScript": "https://some-6ude.github.io/things-i-need-to-host/injectables/customblookloading/setup.js",
+  "cleanupScript": "https://some-6ude.github.io/things-i-need-to-host/injectables/customblookloading/cleanup.js"
 }
