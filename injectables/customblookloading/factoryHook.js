@@ -1,3 +1,4 @@
 if (blooketUtility.prefs.infiniteFactory.value) {
-  console.log("hello world from a blooket utility script");
+  var blookload = document.getElementById("styles__blook___1R6So-camelCase");
+  blookload.src
 }
