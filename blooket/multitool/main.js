@@ -12,4 +12,4 @@ if (hacc = "fossilhack") {
 }
 if (hacc = "addtokens") {
     loadscript("https://raw.githubusercontent.com/rxzyx/Blooket-Hacks/main/Default%20Scripts/Add%20Tokens.js")
-}
+} 
